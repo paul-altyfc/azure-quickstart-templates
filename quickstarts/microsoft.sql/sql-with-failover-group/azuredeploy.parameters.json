@@ -3,28 +3,28 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "sqlServerPrimaryName": {
-            "value": "GEN-UNIQUE"
+            "value": "sql-sgtest02-uksouth-002"
         },
         "sqlServerPrimaryAdminUsername": {
-            "value": "GEN-UNIQUE"
+            "value": "sgtest02admin"
         },
         "sqlServerPrimaryAdminPassword": {
-            "value": "GEN-PASSWORD"
+            "value": "Clmm941P0"
         },
         "sqlServerSecondaryName": {
-            "value": "GEN-UNIQUE"
+            "value": "sql-sgtest02-ukwest-002"
         },
         "sqlServerSecondaryRegion": {
-            "value": "westeurope"
+            "value": "ukwest"
         },
         "sqlServerSecondaryAdminUsername": {
-            "value": "GEN-UNIQUE"
+            "value": "sgtest02admin"
         },
         "sqlServerSecondaryAdminPassword": {
-            "value": "GEN-PASSWORD"
+            "value": "Clmm941P0"
         },
         "sqlFailoverGroupName": {
-            "value": "GEN-UNIQUE"
+            "value": "fog-sgtest02-002"
         }
     }
 }
